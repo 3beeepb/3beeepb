@@ -1,4 +1,4 @@
-Hello and welcome!
+Hello and welcome 👋
 
 I hope you will find something useful here
 

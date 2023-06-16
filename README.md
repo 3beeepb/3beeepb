@@ -10,6 +10,5 @@ The main topics of this account are **Mobile Apps** and the **JavaScript** progr
 Relevant links:
 
 - My telegram: [@zobox](https://t.me/zobox), if you have a question feel free to ping me there
-- My twitter: [@3beeepb](https://twitter.com/3beeepb)
 - Company twitter: [@pavit.design](https://twitter.com/pavit_design)
 - Other ways to contact me: [pavit.ru](https://pavit.ru)
